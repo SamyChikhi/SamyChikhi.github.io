@@ -105,7 +105,7 @@ sections:
         - title: Contract lecturer
           company: Integrative Neuroscience and Cognition Center
           company_url: 'https://incc-paris.fr/'
-          company_logo: logo-incc
+          company_logo: logo-icm
           location: Paris
           date_start: '2022-09-01'
           date_end: ''

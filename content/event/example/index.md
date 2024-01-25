@@ -32,14 +32,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/SamyChikhiPhD
 url_code: ''
 url_pdf: ''
 url_slides: ''

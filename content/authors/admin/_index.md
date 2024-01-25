@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Samy Chikhi is a contract lecturer in Cognitive Neuroscience at the Integrative Neuroscience and Cognition Center. His research interests include perception and memory, brain oscillations, and meta-science.
+I'm a contract lecturer in Cognitive Neuroscience at the Integrative Neuroscience and Cognition Center. My research interests include perception and memory, brain oscillations, and meta-science.
 {style="text-align: justify;"}

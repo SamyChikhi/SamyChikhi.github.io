@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+demo: true
 authors:
 - admin
 - Robert Ford

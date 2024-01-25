@@ -43,3 +43,4 @@ links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0301051123000388
 ---
+[Chikhi et al_2023_Mental strategies and resting state EEG.pdf](https://github.com/SamyChikhi/SamyChikhi.github.io/files/14056837/Chikhi.et.al_2023_Mental.strategies.and.resting.state.EEG.pdf)

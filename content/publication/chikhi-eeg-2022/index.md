@@ -43,3 +43,4 @@ links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14009
 ---
+[Chikhi et al_2022_EEG power spectral measures of cognitive workload.pdf](https://github.com/SamyChikhi/SamyChikhi.github.io/files/14056830/Chikhi.et.al_2022_EEG.power.spectral.measures.of.cognitive.workload.pdf)

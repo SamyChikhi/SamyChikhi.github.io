@@ -29,3 +29,4 @@ links:
 - name: URL
   url: http://www.john-libbey-eurotext.fr/medline.md?doi=10.1684/pnv.2018.0734
 ---
+[Blanchet et al_2018_The benefits of physical activities on cognitive and mental health in healthy.pdf](https://github.com/SamyChikhi/SamyChikhi.github.io/files/14056821/Blanchet.et.al_2018_The.benefits.of.physical.activities.on.cognitive.and.mental.health.in.healthy.pdf)

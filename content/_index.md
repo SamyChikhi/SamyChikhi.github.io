@@ -105,7 +105,7 @@ sections:
         - title: Contract lecturer
           company: Integrative Neuroscience and Cognition Center
           company_url: 'https://incc-paris.fr/'
-          company_logo: logo-icm
+          company_logo: ''
           location: Paris
           date_start: '2022-09-01'
           date_end: ''
@@ -117,7 +117,7 @@ sections:
         - title: Ph.D. in Cognitive Science
           company: Laboratoire Mémoire, Cerveau et Cognition
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Paris
           date_start: '2018-09-01'
           date_end: '2022-12-15'
@@ -126,7 +126,7 @@ activity by neurofeedback for cognitive enhancement.'
         - title: Research internship 
           company: Laboratoire Mémoire, Cerveau et Cognition
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Paris
           date_start: '2017-10-01'
           date_end: '2018-06-30'

@@ -13,7 +13,7 @@ address:
   country: France
 
 summary: Présentation des principes de la revue systématique et de la méta-analyse.
-abstract: 'Après l\'introduction théorique, un atelier pratique a eu pour objectif d\'appliquer les étapes principales d\'une méta-analyse à l\'aide du logiciel R Studio.'
+abstract: 'Après une introduction théorique, un atelier pratique a eu pour objectif de mettre en pratique les principales étapes de la méta-analyse en utilisant le logiciel R Studio.'
 
 
 # Talk start and end times.

@@ -1,3 +1,5 @@
+draft: true
+
 ---
 draft: true
 title: Welcome to Hugo Blox Builder, the website builder for Hugo

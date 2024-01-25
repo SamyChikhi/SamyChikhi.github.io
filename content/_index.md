@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: ''
-    - block: collection
+  - block: collection
     id: featured
     content:
       title: Featured Publications

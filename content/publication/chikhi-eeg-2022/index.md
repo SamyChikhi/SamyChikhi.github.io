@@ -1,5 +1,6 @@
 ---
 title: 'EEG power spectral measures of cognitive workload: A meta-analysis'
+featured: true
 authors:
 - Samy Chikhi
 - Nadine Matton

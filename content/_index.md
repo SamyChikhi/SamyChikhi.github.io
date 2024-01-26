@@ -113,7 +113,7 @@ sections:
               Responsibilities include:
 
               * Data collection and analysis
-              * Teaching (L2,L3,M1)
+              * Teaching (cognitive (neuro)science, experimental design & data analysis)
         - title: Ph.D. in Cognitive Science
           company: Laboratoire Mémoire, Cerveau et Cognition
           company_url: ''

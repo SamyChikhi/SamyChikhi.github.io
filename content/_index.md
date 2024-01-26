@@ -183,33 +183,33 @@ activity by neurofeedback for cognitive enhancement.'
 #          url: ''
 #   design:
 #      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Recent Posts
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Filter on criteria
+#      filters:
+#        folders:
+#          - post
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
+#      # Choose how many pages you would like to offset by
+#     offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view
+#      view: compact
+#      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -227,8 +227,10 @@ activity by neurofeedback for cognitive enhancement.'
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Neurofeedback
+          tag: Neurofeedback
+        - name: Virtual reality
+          tag: VR
         - name: Other
           tag: Demo
     design:
@@ -245,15 +247,15 @@ activity by neurofeedback for cognitive enhancement.'
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-#  - block: contact
-#    id: contact
-#    content:
-#      title: Contact
-#      subtitle:
-#      text: |-
-#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, #venenatis ut magna et, vehicula efficitur enim.
-#      # Contact (add or remove contact options as necessary)
-#      email: test@example.org
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Feel free to contact me if you would like more information or if you are interested in collaborating.
+      # Contact (add or remove contact options as necessary)
+      email: sychikhi@gmail.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -271,11 +273,11 @@ activity by neurofeedback for cognitive enhancement.'
 #      coordinates:
 #       latitude: '37.4275'
 #        longitude: '-122.1697'  
-#      contact_links:
-#        - icon: twitter
-#          icon_pack: fab
-#          name: DM Me
-#          link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/SamyChikhiPhD'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me

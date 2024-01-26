@@ -134,7 +134,7 @@ activity by neurofeedback for cognitive enhancement.'
         - title: Research internship 
           company: Laboratoire Plasticité du Cerveau, équipe Interface Cerveau-Machine
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Paris
           date_start: '2017-01-01'
           date_end: '2017-06-30'

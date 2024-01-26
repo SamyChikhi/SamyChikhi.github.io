@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-After completing a Ph.D. in cognitive science, I am currently a contract lecturer at the Integrative Neuroscience and Cognition Center. My research focuses on the dynamic interplay between EEG activity and cognition, with specific attention to memory and attention. I am passionate about exploring applications of brain-computer interfaces, especially in neurofeedback, and investigating human performance under various levels of cognitive load. Additionally, my interests extend to meta-science, covering sciences synthesis, philosophy, and the history of science.
+After completing a Ph.D. in cognitive science, I am currently a contract lecturer at the Integrative Neuroscience and Cognition Center. My research focuses on the dynamic interplay between EEG activity and cognition, with specific attention to memory and attention. I am interested in exploring the applications of brain-computer interfaces (e.g., neurofeedback) and investigating human performance under various levels of cognitive load, as well as in ecological settings using virtual reality. Additionally, my interests extend to meta-science, covering sciences synthesis, philosophy, and the history of science.
 {style="text-align: justify;"}

@@ -21,7 +21,7 @@ abstract: Biofeedback is a training technique based on the self-regulation of ph
 
 
 # Display this page in the Featured widget?
-featured: true
+#featured: true
 
 tags: []
 

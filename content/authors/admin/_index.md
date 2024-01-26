@@ -25,13 +25,13 @@ organizations:
     url: https://incc-paris.fr/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include brain-computer interface (neurofeedback) utilizing electrical brain activity (EEG), human performance, and more generally, meta-science.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Neurofeedback
-  - Cognitive performance and enhancement
-  - Brain oscillations
+  - Brain-computer interface
+  - Cognitive performance
+  - EEG activity
   - Meta-science
 
 # Education to show in About widget
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I'm a contract lecturer in Cognitive Neuroscience at the Integrative Neuroscience and Cognition Center. My research interests include perception and memory, brain oscillations, and meta-science.
+After completing a Ph.D. in cognitive science, I am currently a contract lecturer at the Integrative Neuroscience and Cognition Center. My research focuses on the dynamic interplay between EEG activity and cognition, with specific attention to memory and attention. I am passionate about exploring applications of brain-computer interfaces, especially in neurofeedback, and investigating human performance under various levels of cognitive load. Additionally, my interests extend to meta-science, covering sciences synthesis, philosophy, and the history of science.
 {style="text-align: justify;"}

@@ -13,5 +13,6 @@ publishDate: '2024-01-26T11:11:54.172798Z'
 publication_types:
 - paper-conference
 publication: '*International Journal of Psychophysiology*'
+publication_short: In *Int J Psychophysiol*
 doi: 10.1016/j.ijpsycho.2023.05.108
 ---

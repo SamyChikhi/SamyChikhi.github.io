@@ -29,9 +29,10 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Brain-computer interface
+  - Perception & Memory
   - Cognitive performance
-  - EEG activity
+  - Brain-computer interface
+  - Virtual reality
   - Meta-science
 
 # Education to show in About widget

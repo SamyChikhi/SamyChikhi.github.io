@@ -5,6 +5,9 @@ tags:
   - VR
 date: "2021-09-06T00:00:00Z"
 
+
+{{< video src="simu_tir.mp4" controls="yes" >}}
+
 # Optional external URL for project (replaces project detail page).
 #external_link: https://example.org
 

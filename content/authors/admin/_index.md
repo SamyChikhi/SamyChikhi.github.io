@@ -92,9 +92,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sychikhi@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SamyChikhiPhD 
@@ -107,9 +104,15 @@ social:
   - icon: researchgate
     icon_pack: academicons
     link: https://www.researchgate.net/profile/Samy_Chikhi
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-5180-9238
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/samy-chikhi-6a9248167/
+    link: https://www.linkedin.com/in/samy-chikhi-6a9248167/    
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sychikhi@gmail.com'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

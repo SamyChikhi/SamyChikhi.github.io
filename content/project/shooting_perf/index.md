@@ -6,7 +6,7 @@ tags:
 date: "2021-09-06T00:00:00Z"
 
 
-{{< video src="simu_tir.mp4" controls="yes" >}}
+video: '{{< video src="simu_tir.mp4" controls="yes" >}}'
 ---
 
 The soldiers, sometimes exposed to situations of cognitive overload where errors can be fatal, constitute a population that can greatly benefit from cognitive training. The effects of such training are rarely studied in real-life situations due to the associated costs and risks, threatening their external validity. In this context, virtual reality emerges as an indispensable alternative as it allows the study of human behavior in realistic and dynamic environments capable of imposing a significant cognitive load. The concept of cognitive load is fundamental in performance assessment as it is strongly linked to performance and the risk of error.

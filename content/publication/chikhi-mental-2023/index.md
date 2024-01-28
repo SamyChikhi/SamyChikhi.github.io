@@ -2,7 +2,7 @@
 title: 'Mental strategies and resting state EEG: Effect on high alpha amplitude modulation
   by neurofeedback in healthy young adults'
 authors:
-- Samy Chikhi
+- admin
 - Nadine Matton
 - Marie Sanna
 - Sophie Blanchet

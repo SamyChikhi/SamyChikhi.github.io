@@ -5,8 +5,8 @@ tags:
   - VR
 date: "2021-09-06T00:00:00Z"
 
-
-video: '{{< video src="simu_tir.mp4" controls="yes" >}}'
+video: "/workspaces/SamyChikhi.github.io/content/project/shooting_perf/simu_tir.mp4"
+#video: '{{< video src="simu_tir.mp4" controls="yes" >}}'
 
 image: 
   src: "poster_RV.jpg"

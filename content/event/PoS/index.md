@@ -1,25 +1,25 @@
 ---
-title: Introduction à la revue systématique & la méta-analyse
+title: 'Neurofeedback: Can we control our brain?'
 
-event: Ateliers Méthodologiques de l’Institut
+event: Pint of Science
 #event_url:
 
-location: Université Paris Cité, Institut de Psychologie
+location: Deux Point Zéro
 address:
-  street: 71 avenue Edouard Vaillant
-  city: Boulogne-Billancourt
+  street: 7 rue Blondel
+  city: Paris
 #  region: CA
-  postcode: 92100
+  postcode: ''
   country: France
 
-summary: Présentation des principes de la revue systématique et de la méta-analyse.
-abstract: 'Après une introduction théorique, un atelier pratique a eu pour objectif de mettre en pratique les principales étapes de la méta-analyse en utilisant le logiciel R Studio.'
+summary: ''
+abstract: 'The principle of neurofeedback is akin to that of a thermostat: by providing real-time feedback on brain activity, it may be possible to learn to voluntarily regulate this activity. This control over brain activity could potentially aid in relaxation, the treatment of certain disorders, or even the enhancement of memory. Although this technique is appealing, we will see that numerous questions regarding its mechanisms and effectiveness remain open.'
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-04T17:30:00Z'
-date_end: '2023-12-04T19:00:00Z'
+date: '2023-05-22T19:30:00Z'
+date_end: '2023-12-04T22:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

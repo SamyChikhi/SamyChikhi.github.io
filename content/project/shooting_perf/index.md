@@ -4,7 +4,7 @@ summary: Virtual reality allows the study of human performance in realistic and 
 tags:
   - VR
 date: "2021-09-06T00:00:00Z"
-
+video: "content/project/shooting_perf/simu_tir.mp4"
 video: "/workspaces/SamyChikhi.github.io/content/project/shooting_perf/simu_tir.mp4"
 #video: '{{< video src="simu_tir.mp4" controls="yes" >}}'
 

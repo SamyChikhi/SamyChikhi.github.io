@@ -1,5 +1,5 @@
 ---
-title: ntroduction to Systematic Review & Meta-analysis
+title: Introduction to Systematic Review & Meta-analysis
 
 event: Ateliers Méthodologiques de l’Institut
 #event_url:

@@ -1,6 +1,6 @@
 ---
 title: Cognitive enhancement though neurofeedback
-summary: Does neurofeedback training bring about specific cognitive gains compared to a control group? Under what circumstances and through which mechanisms?
+summary: Does neurofeedback training lead to specific cognitive gains compared to a control group? Under what circumstances and through which mechanisms?
 tags:
   - Neurofeedback
 date: '2022-09-01T00:00:00Z'

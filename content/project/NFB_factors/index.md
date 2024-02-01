@@ -31,7 +31,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 A significant number of individuals struggle to modulate their brain activity during a neurofeedback task. It therefore appears necessary to better identify the factors capable of predicting the ability to modulate brain activity during this type of task. Among these factors, the application or implementation of a certain type of strategy could be crucial to success in the neurofeedback task. Thus, gaining a better understanding of mental strategies and their impact on neuromodulation could provide insights into the phenomenon of "non-learning" observed in neurofeedback.

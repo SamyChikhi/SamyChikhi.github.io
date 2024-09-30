@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Contract lecturer
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Integrative Neuroscience and Cognition Center (INCC – UMR 8002, CNRS, Université Paris Cité).
-    url: https://incc-paris.fr/ 
+  - name: The French Aerospace Lab ONERA (ICNA)
+    url: https://www.onera.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-After completing a Ph.D. in cognitive science, I am currently a contract lecturer at the Integrative Neuroscience and Cognition Center. My research focuses on the dynamic interplay between EEG activity and cognition, with specific attention to memory and attention. I am interested in exploring the applications of brain-computer interfaces (e.g., neurofeedback) and investigating human performance under various levels of cognitive load, as well as in ecological settings using virtual reality. Additionally, my interests extend to meta-science, covering sciences synthesis, philosophy and history of science.
+After completing a Ph.D. in cognitive science, I am currently a postdoctoral researcher at The French Aerospace Lab (ONERA). My research focuses on investigating human cognition from an applied perspective, using various psychophysiological methods to measure and enhance attention and memory processes. I am interested in exploring the applications of brain-computer interfaces (e.g., neurofeedback) and investigating human performance under various levels of cognitive load, as well as in ecological settings using virtual reality. Additionally, my interests extend to meta-science, covering sciences synthesis, philosophy and history of science.
 {style="text-align: justify;"}

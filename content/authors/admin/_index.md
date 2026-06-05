@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The French Aerospace Lab ONERA (ICNA)
-    url: https://www.onera.fr/fr
+  - name: LaPEA - Laboratoire de Psychologie et d'Ergonomie Appliquées / Applied Psychology and Ergonomy Lab
+    url: https://lapea.u-paris.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
